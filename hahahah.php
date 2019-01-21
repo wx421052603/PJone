@@ -1,8 +1,4 @@
 <?php 
-
-
-
-
 echo "23423412341234";
 sdfasdfasdf
 
